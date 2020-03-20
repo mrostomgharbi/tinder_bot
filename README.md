@@ -9,6 +9,8 @@ Create a secrets.py file that you need to put on the same folder with variables:
 ```
 
 To run:
+``` 
 python3 tinder_bot.py
+``` 
 
 Enjoy !
